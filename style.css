@@ -6,7 +6,7 @@
     text-align: center;
     padding-top: 5rem;
     font-weight: bolder;
-    z-index: 1;
+    z-index: 0;
 }
 body{
     display: flex;
