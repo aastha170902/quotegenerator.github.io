@@ -28,5 +28,5 @@ btn.addEventListener('click',()=>{
 
     //add or remove any element accordingly 
     const arr_color_change = [quote ,author ,links]
-    
+     arr_color_change.map((element)=>element.style.color = random_color)
 })
