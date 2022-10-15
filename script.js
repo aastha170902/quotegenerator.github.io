@@ -14,6 +14,7 @@ const generateQuote = async() =>{
 btn.addEventListener('click',generateQuote)
 generateQuote()
 
+/*
 // playing with colors
 function getRandomColor() {
     var letters = '0123456789ABCDEF';
@@ -30,3 +31,4 @@ btn.addEventListener('click',()=>{
     const arr_color_change = [quote ,author ,links]
      arr_color_change.map((element)=>element.style.color = random_color)
 })
+*/
