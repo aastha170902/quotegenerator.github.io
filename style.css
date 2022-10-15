@@ -58,7 +58,7 @@ body::after {
    justify-content: center;
    position: absolute;
    background-color: white;
-   color: teal;
+   color: black;
    margin: 5px;
    border-radius: 1.5rem;
    padding: 2rem 2rem 0rem 2rem;
