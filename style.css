@@ -96,7 +96,4 @@ button{
    align-items: center;
    z-index: 1;
 }
-button:hover{
-    background-color:hsl(180, 100%, 15%);
-    z-index: 1;
-}
+
